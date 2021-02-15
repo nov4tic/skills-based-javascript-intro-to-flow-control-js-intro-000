@@ -48,5 +48,5 @@ switch (switchAge) {
   case 19:
     return 'You are a teenager'
     break;
-  default: 
+  default:
 }}
