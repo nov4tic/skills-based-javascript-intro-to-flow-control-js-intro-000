@@ -50,6 +50,6 @@ switch (switchAge) {
     break;
   default:
     return 'You have an age'
-
+    break;
 }
 }
